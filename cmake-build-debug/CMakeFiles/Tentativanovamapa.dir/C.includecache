@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Rodolfo Bortoluzzi/CLionProjects/Tentativanovamapa/main.c
+stdio.h
+-
+stdlib.h
+-
+locale.h
+-
+string.h
+-
+

@@ -1,0 +1,3 @@
+C:/Users/Rodolfo Bortoluzzi/CLionProjects/Tentativanovamapa/cmake-build-debug/CMakeFiles/Tentativanovamapa.dir
+C:/Users/Rodolfo Bortoluzzi/CLionProjects/Tentativanovamapa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rodolfo Bortoluzzi/CLionProjects/Tentativanovamapa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
